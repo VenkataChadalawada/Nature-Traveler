@@ -8,4 +8,4 @@ Responsive &amp; flex patterns to have a beautifully styled site
 ![alt text](https://github.com/VenkataChadalawada/D3-Stuff/blob/master/BirthsPerCountry-D3/ScatterPlotD3_Result.png)
 
 ##### Screenshots Mobile / Tablet
-![alt text](https://github.com/VenkataChadalawada/D3-Stuff/blob/master/BirthsPerCountry-D3/ScatterPlotD3_Result.png)
+![alt text](https://github.com/VenkataChadalawada/Nature-Traveler/blob/master/9.png)
