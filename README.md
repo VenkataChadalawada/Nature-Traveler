@@ -6,6 +6,3 @@ Responsive &amp; flex patterns to have a beautifully styled site
 
 ##### Few Screenshots
 ![alt text](https://github.com/VenkataChadalawada/Nature-Traveler/blob/master/9.png)
-
-##### Screenshots Mobile / Tablet
-![alt text](https://github.com/VenkataChadalawada/Nature-Traveler/blob/master/9.png)
